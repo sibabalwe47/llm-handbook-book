@@ -1,0 +1,3 @@
+from .nosql import (
+    NoSQLBaseDocument
+)
